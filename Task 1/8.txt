@@ -1,0 +1,3 @@
+Python Data Types: Tuples
+The built-in tuple data type is probably the most elementary sequence available in Python. Tuples are immutable and can store a fixed number of items. For example, you can use tuples to represent Cartesian coordinates (x, y), RGB colors (red, green, blue), records in a database table (name, age, job), and many other sequences of values.
+In all these use cases, the number of elements in the underlying tuple is fixed, and the items are unchangeable. You may find several situations where these two characteristics are desirable. For example, consider the RGB color example .

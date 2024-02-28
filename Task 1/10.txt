@@ -1,5 +1,0 @@
-Python Variables and Assignments
-Variables permit us to write code that is flexible and amendable to repurpose.
-Imagine a variable as a labeled box where you store a value. 
-The label is the variable name and the content is the value. The assignment process uses the equals sign (=) in Python
-The line x=1 takes the known value, 1, and assigns that value to the variable with name “x”. After executing this line, this number will be stored into this variable. Until the value is changed or the variable deleted, the character x behaves like the value of 1.

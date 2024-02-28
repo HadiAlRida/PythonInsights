@@ -1,0 +1,4 @@
+For Loop in Python
+Most of the processes require a group of instructions to be repeatedly executed. In programming terminology, it is called a loop. 
+Instead of the next step, if the flow is redirected towards any earlier step, it constitutes a loop. 
+For loops  used for sequential traversal. For example: traversing a list or string or array etc. In Python, there is “for in” loop which is similar to foreach loop in other languages. Loop control statements are used to change the flow of execution. These can be used if you wish to skip an iteration or stopping code.

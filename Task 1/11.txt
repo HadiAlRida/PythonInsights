@@ -1,4 +1,4 @@
 Python Arithmetic Operators
 They are an essential part of the Python programming language that allow you to perform basic mathematical operations on numeric data types. This includes addition, subtraction, multiplication, and division. By understanding how these operators work, you can enhance your ability to solve problems using Python.
 Python arithmetic operators are symbols in Python programming that represent basic mathematical operations performed on numeric data types such as integers, floating-point numbers, and complex numbers.
-Note : Python supports automatic type conversion when working with mixed numeric data types in calculations and handle potential errors or exceptions, such as ZeroDivisionError
+Note: Python supports automatic type conversion when working with mixed numeric data types in calculations and handle potential errors or exceptions, such as Zero Division Error

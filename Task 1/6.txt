@@ -1,0 +1,7 @@
+String Data Type in Python
+Strings in Python are arrays of bytes representing Unicode characters. 
+In Python there is no character data type . It is represented by str class.
+In Python, a string is a sequence of characters enclosed within either single,double or triple .
+It is an immutable data type, which means once a string is created, it cannot be modified. 
+However, it is possible to create a new string by concatenating two or more strings. 
+You can also refer to string built in functions, to understand more about string methods and programs with code and examples

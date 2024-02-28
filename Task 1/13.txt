@@ -1,0 +1,4 @@
+Python Operators: Logical
+Python has three Boolean operators, or logical operators: and, or, and not. You can use them to check if certain conditions are met before deciding the execution path your programs will follow. 
+Python implements bool as a subclass of int with two possible values, True and False. These values are built-in constants in Python. They’re internally implemented as integer numbers with the value 1 for True and 0 for False. 
+With these operators, you can connect several Boolean expressions and objects to build your own expressions. Unlike other languages, Python uses English words to denote Boolean operators.

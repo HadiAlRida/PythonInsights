@@ -1,0 +1,3 @@
+Python Comparison Operators
+Comparison operators in Python are critical in  conditional/ looping statements and they can be also called  relational operators. Some of the well known operators are "<" stands for less than, and ">" stands for greater than operator.
+Python uses two more operators, combining "=" symbol with these two. The "<=" symbol is for less than or equal to operator and the ">=" symbol is for greater than or equal to operator. and it has  two more  operators in the form of "==" and "!=". They are for is equal to and is not equal to operators

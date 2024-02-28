@@ -1,0 +1,3 @@
+The list class is a fundamental built-in data type in Python. It has an impressive and useful set of features, allowing you to efficiently organize and manipulate heterogeneous data. Knowing how to use lists is a must-have skill for you as a Python developer. Lists have many use cases, so you’ll frequently reach for them in real-world coding.
+Lists are sequences of objects. They’re commonly called containers or collections because a single list can contain or collect an arbitrary number of other objects
+Some of the more relevant characteristics of list objects include being:Ordered,Mutable,Iterable ,Nestable, Growable and dynamic ...

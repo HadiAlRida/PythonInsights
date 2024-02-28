@@ -1,0 +1,6 @@
+Python Functions: Parameters and Arguments
+A lot of people are confused whit distinguishing between argument and parameters of the function 
+and I am going to demonstrate differences between them : Arguments are Information can be passed into functions as arguments. And they are specified after the function name, inside the parentheses. You can add as many arguments as you want, just separate them with a comma. While A parameter is the variable listed inside the parentheses in the function definition. Arguments are often shortened to args in documentation and a function must be called with the correct number of arguments
+
+
+

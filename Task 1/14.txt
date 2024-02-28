@@ -1,0 +1,4 @@
+Python Control Flow: Conditional Statements 
+There are situations in real life when we need to make some decisions and based on these decisions, we decide what we should do next. Similar situations arise in programming also where we need to make some decisions and based on these decisions we will execute the next block of code. Conditional statements in Python languages decide the direction (Control Flow) of the flow of program execution.
+For example If-Else statements in are part of conditional statements, which decide the control of code. And the types of Control Flow in Python are (if, elif, else)
+

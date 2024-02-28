@@ -1,0 +1,6 @@
+Installing Python
+In Linux, it is as easy as running a command and having it set up. With Windows, it takes a slightly different route. 
+To get started working with Python 3, you'll need to have access to the Python interpreter. There are several common ways to accomplish this:
+Python can be obtained from the Python Software Foundation website at python.org. 
+On macOS, the best way to install Python 3 involves installing a package manager called Homebrew.
+Alternatively, there are several websites that allow you to access a Python interpreter online without installing anything on your computer at all
